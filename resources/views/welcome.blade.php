@@ -9,6 +9,8 @@
     <body>
       <a href="{{ route( 'saluditos') }}">Saludos</a>
       <br>
-      <a href="{{ route('bienvenidos')}}">Bienvenidos</a>                      
+      <a href="{{ route('bienvenidos')}}">Bienvenidos</a>   
+      <br>
+      <a href="{{ route('estudiantes')}}">Estudiantes</a>
     </body>
 </html>
