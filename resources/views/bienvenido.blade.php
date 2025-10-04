@@ -1,2 +1,2 @@
-
-<h1>Hola soy Marjhorit Herrera Sifuentes</h1>
+<!DOCTYPE html>
+     <h1>Hola soy Marjhorit</h1>
